@@ -1,4 +1,6 @@
-### 👋
+<!-- ### 👋 -->
+[![Ji O's github stats](https://github-readme-stats.vercel.app/api?username=Kimjio&count_private=true&show_icons=true&include_all_commits=true&bg_color=0,fff,fffde7&title_color=69f0ae&text_color=00e5ff&icon_color=69f0ae)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![](https://github.githubassets.com/images/mona-whisper.gif)
 
